@@ -1,0 +1,24 @@
+.cover{
+    background-image: url('./images/laptop-1149412_1920.jpg');
+    background-position: center;
+    background-repeat:no-repeat;
+    width: 1000px;
+    height: 950px;;
+}
+.cover h1{
+    text-align: center;
+    margin-top: 5%;
+    color:rgb(61, 48, 48);
+    font-weight: 600;
+    font-variant: initial;
+    font-style: normal;
+    font-size: 45px;
+
+}
+.cover ul{
+    font-size:20px;
+    font-variant: initial;
+    color:rgb(54, 51, 51);
+    text-align: center;
+    padding-top: 8%;
+}
